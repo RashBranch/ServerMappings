@@ -1,0 +1,13 @@
+{
+  "id": "vulpisfi",
+  "name": "Vulpis",
+  "description": "Entertaining activities and fun for everyone.",
+  "addresses": [
+    "vulpis.fi"
+  ],
+  "primaryAddress": "vulpis.fi",
+  "links": {
+    "website": "https://vulpis.fi",
+    "discord": "https://discord.gg/gJDDqA95vY"
+  }
+}

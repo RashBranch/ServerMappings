@@ -7,9 +7,11 @@
   ],
   "primaryAddress": "vulpis.fi",
   "minecraftVersions": [
-    "1.21.x"
+    "1.21",
+    "1.21.1",
+    "1.21.11"
   ],
-  "primaryMinecraftVersion": "1.21.11",
+  "primaryMinecraftVersion": "1.21",
   "primaryColor": "#FB6900",
   "secondaryColor": "#FFA800",
   "primaryRegion": "EU",
@@ -21,8 +23,6 @@
     "Minigames"
   ],
   "crossplay": true,
-  "links": {
-    "website": "https://vulpis.fi",
-    "discord": "https://discord.gg/gJDDqA95vY"
-  }
+  "website": "https://vulpis.fi",
+  "discord": "https://discord.gg/gJDDqA95vY"
 }

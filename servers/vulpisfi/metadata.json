@@ -24,5 +24,7 @@
   ],
   "crossplay": true,
   "website": "https://vulpis.fi",
-  "discord": "https://discord.gg/gJDDqA95vY"
+  "socials": {
+    "discord": "https://discord.gg"
+  }
 }
